@@ -1,0 +1,9 @@
+C:\Users\Yoseph\csms\projects\logginglib\bin\Debug\netstandard2.1\logginglib.deps.json
+C:\Users\Yoseph\csms\projects\logginglib\bin\Debug\netstandard2.1\logginglib.dll
+C:\Users\Yoseph\csms\projects\logginglib\bin\Debug\netstandard2.1\logginglib.pdb
+C:\Users\Yoseph\csms\projects\logginglib\obj\Debug\netstandard2.1\logginglib.csprojAssemblyReference.cache
+C:\Users\Yoseph\csms\projects\logginglib\obj\Debug\netstandard2.1\logginglib.AssemblyInfoInputs.cache
+C:\Users\Yoseph\csms\projects\logginglib\obj\Debug\netstandard2.1\logginglib.AssemblyInfo.cs
+C:\Users\Yoseph\csms\projects\logginglib\obj\Debug\netstandard2.1\logginglib.csproj.CoreCompileInputs.cache
+C:\Users\Yoseph\csms\projects\logginglib\obj\Debug\netstandard2.1\logginglib.dll
+C:\Users\Yoseph\csms\projects\logginglib\obj\Debug\netstandard2.1\logginglib.pdb
